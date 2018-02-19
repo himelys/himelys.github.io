@@ -13,7 +13,6 @@ weight = 5
     "Artificial Intelligence",
     "Computational Linguistics",
     "Auditory Neuroscience",
-	"test"
   ]
 
 # List your qualifications (such as academic degrees).
