@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Auditory Neuroscience",
     "Artificial Intelligence",
     "Computational Linguistics",
-    "Auditory Neuroscience",
+	"Signal Processing"
   ]
 
 # List your qualifications (such as academic degrees).
