@@ -27,7 +27,7 @@ abstract = "Although smart devices have become a widely-adopted tool for communi
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
