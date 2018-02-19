@@ -17,8 +17,8 @@ authors = ["Sang Beom Jun", "Yoonseob Lim"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *eLIFE*"
-publication_short = "In *eLIFE*"
+publication = "In *Smart Sensors and Systems*"
+publication_short = "In *Smart Sensors and Systems*"
 
 # Abstract and optional shortened version.
 abstract = "For more than several decades, due to the rapid development of sophisticated electronics, the electrical neural interface has become the most popular method for recording and modulating neural activity in nerve systems. The electrical neural interface has been successfully applied to implantable neural prosthetic systems such as cochlear implant, deep brain stimulation system, artificial retina, and so on. Recently, in order to overcome the limitations of electrical methods for neural interface, novel optical technologies have been developed and applied to neuroscience research. Overall, the optical neural interfaces can be categorized into the intrinsic and the extrinsic methods depending on the modification of natural nerve system. For example, infrared neural stimulation (INS) and optogenetic neural stimulation are the typical methods for intrinsic and extrinsic neural interfaces, respectively. In addition to the optogenetic stimulation, it is also possible to monitor neural activity from specific neurons genetically modified to express activity-correlated fluorescence signals. Therefore, the optogenetic neural recording enables the detection of activity from specific types of neurons. Despite the fascinating advantages, to date, the use of the optical neural interface is limited only to the neuroscience research not for clinical purposes. In this chapter, the state-of-art technologies in optical neural interface are reviewed from the aspects of both neurobiology and engineering. In addition, the challenges to realize the clinical use of optical neural interfaces are discussed."
