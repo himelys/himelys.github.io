@@ -17,7 +17,7 @@ authors = ["Guiyoung Son", "Soonil Kwon", "Yoonseob Lim"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In * Advances in Electrical and Computer Engineering*"
+publication = "In *Advances in Electrical and Computer Engineering*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -32,7 +32,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = [""]
+
 
 # Links (optional).
 url_pdf = "http://www.aece.ro/displaypdf.php?year=2017&number=2&article=11"
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "", url = ""}]
+
 
 # Does the content use math formatting?
 math = true
