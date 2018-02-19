@@ -27,7 +27,7 @@ abstract = "Presented in this paper is a data association method using audio and
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
