@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
-    "Auditory Neuroscience"
-	"...."
+    "Auditory Neuroscience",
+	"test"
   ]
 
 # List your qualifications (such as academic degrees).
