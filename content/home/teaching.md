@@ -15,14 +15,8 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am a teaching "Human robot interaction" class as a guest lecturer.
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- Date: Apr.18.2018 ~ May.16.2018 (Every Wednesday)
+- Time: 3pm ~ 6pm
+- Where: Classroom 4 of the main buidling in KIST
