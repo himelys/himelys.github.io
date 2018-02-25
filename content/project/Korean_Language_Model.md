@@ -9,7 +9,7 @@ title = "Complexity model of Korean Language"
 summary = "In this project, we build complexity model of Korean language using machine learning and statistical modeling methods"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kaleidoscope.jpg"
+image_preview = "wikipedia_POS_network.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
