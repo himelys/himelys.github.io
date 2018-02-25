@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "human_speech_ex.jpg"
+image = "human_speech_ex.png"
 caption = ""
 
 +++
