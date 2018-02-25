@@ -30,4 +30,4 @@ caption = ""
 
 In this project, we have designed an ontology-based knowledge system for caring person with dementia at home or care facility. Proposed system contains an ontology that describes the knowledge of dementia patient, dementia symptoms, indoor environment, qualitative things and various patient’s situation happening during daily life. We first describe the overall system architecture of the proposed system targeting at supporting caregivers or family members that can provide appropriate care guides for distinct symptoms of a dementia patient. We have tested the feasibility of the proposed system with two different prototypal application systems: robot platform and knowledge sharing system.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=fd4qrVeuXf8&index=1&list=PLWZLLX6LmXbOZEw6IRKm0JsddqFQMgN3R" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/fd4qrVeuXf8?list=PLWZLLX6LmXbOZEw6IRKm0JsddqFQMgN3R" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
