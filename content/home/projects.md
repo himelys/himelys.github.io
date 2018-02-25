@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 0
+view = 1
 
 # Filter toolbar.
 
@@ -31,13 +31,13 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-  
+
 [[filter]]
   name = "Machine Learning"
-  tag = ".machine learning"
+  tag = ".machine-learning"
 
 [[filter]]
   name = "Signal Processing"
-  tag = ".signal processing"
+  tag = ".signal-processing"
 
 +++
