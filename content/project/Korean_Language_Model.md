@@ -6,7 +6,7 @@ date = "2018-02-25"
 title = "Complexity model of Korean Language"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "In this project, we build complexity model of Korean language using machine learning and statistical modeling methods"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "kaleidoscope.jpg"
@@ -23,9 +23,9 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "kaleidoscope.jpg"
 caption = ""
 
 +++
 
-Lorem
+In this project, we build complexity model of Korean language using machine learning and statistical modeling methods.
