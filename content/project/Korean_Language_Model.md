@@ -6,14 +6,14 @@ date = "2018-02-25"
 title = "Complexity model of Korean Language"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "kaleidoscope.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["machine-learning", "language model", "language rehab"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,9 +23,9 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
-Lorem 
+Lorem
