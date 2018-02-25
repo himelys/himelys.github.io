@@ -40,4 +40,11 @@ filter_default = 0
   name = "Signal Processing"
   tag = ".signal-processing"
 
+[[filter]]
+      name = "A.I."
+      tag = ".Artificial-intelligence"
+
+[[filter]]
+    name = "Language Model"
+    tag = ".language-model"
 +++
