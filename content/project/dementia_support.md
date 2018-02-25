@@ -32,3 +32,5 @@ In this project, we have designed an ontology-based knowledge system for caring 
 
 
 <iframe width="684" height="384" src="https://www.youtube.com/embed/fd4qrVeuXf8?list=PLWZLLX6LmXbOZEw6IRKm0JsddqFQMgN3R" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+For more information, refer to [this github page!](https://github.com/HW-Jeon/context_reasoner_for_demenia_patient.git)
