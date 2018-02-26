@@ -10,23 +10,10 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "teaching"
-
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-view = 1
-
-# Filter toolbar.
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-
 +++
+
+In this class, we are going to discuss possible ways that may enable stable behavior of an artificial agent. There are several reading materials about self-organization, neural network, planning method and learning. For each week, student volunteers or should review the required papers and all the student will participate in the discussion. At the end of the lecture, student is required to submit small simulation result (any programming language) and present the result in the class.
+
+- Date: Apr.18.2018 ~ May.16.2018 (Every Wednesday)
+- Time: 3pm ~ 6pm
+- Where: Classroom 4 of the main building in KIST
