@@ -1,6 +1,6 @@
 +++
 title = "Ontology-based Dementia Care Support System"
-date = "2018-03-17"
+date = "2018-04-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Hwawoo Jeon", "Sungkee Park", "Jongsuk Choi", "Yoonseob Lim"]
@@ -14,7 +14,7 @@ authors = ["Hwawoo Jeon", "Sungkee Park", "Jongsuk Choi", "Yoonseob Lim"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *40th International Conference of the IEEE Engineering in Medicine and Biology Society*"
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "" 
+image = "DTC_KB_concept.png" 
 caption = ""
 
 +++
