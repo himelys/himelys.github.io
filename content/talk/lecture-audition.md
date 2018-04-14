@@ -1,9 +1,9 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2017-04-13T00:00:00  # Schedule page publish date.
 
 title = "Learning Neuroscience - Audition"
-time_start = 2018-04-13T11:00:00
-time_end = 2018-04-13T13:00:00
+time_start = 2018-04-20T11:00:00
+time_end = 2018-04-20T12:00:00
 abstract = ""
 abstract_short = "Free lunch"
 event = "KIST Neuroscience Lecture"
