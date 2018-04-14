@@ -19,7 +19,7 @@ selected = false
 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/1ip7x6rwhtJ-MFC8qjkhIUOEv_5pNyAfB/view?usp=sharing"
 url_slides = ""
 url_video = ""
 url_code = ""
