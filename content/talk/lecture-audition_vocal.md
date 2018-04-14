@@ -1,7 +1,7 @@
 +++
 date = 2017-04-13T00:00:00  # Schedule page publish date.
 
-title = "Auditory-vocal processing and brain"
+title = "Auditory-Vocal Processing and Brain"
 time_start = 2018-05-19T11:00:00
 time_end = 2018-04-20T12:20:00
 abstract = ""
