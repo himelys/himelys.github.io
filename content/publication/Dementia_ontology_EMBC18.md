@@ -1,6 +1,6 @@
 +++
 title = "Ontology-based Dementia Care Support System"
-date = "2018"
+date = "2018-07-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Hwawoo Jeon", "Sungkee Park", "Jongsuk Choi", "Yoonseob Lim"]
