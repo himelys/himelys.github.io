@@ -16,7 +16,7 @@ image_preview = "white_noise_contour.png"
 tags = ["signal-processing", "speech-perception"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/himelys/Sparse_Contour_TF"
 
 # Does the project detail page use math formatting?
 math = false
