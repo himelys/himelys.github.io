@@ -24,7 +24,7 @@ publication_short = "In *IROS 2019* (Oral Presentation, acceptance rate: 44%)"
 abstract = "Human has an ability to adjust utterance depending on the state of interlocutor. In this study, we explore the verbal behaviors of human through interaction with two smart speakers that have different level of task competence. We analyzed (1) linguistic behaviors appeared in user’s utterance, (2) length of the uttered speech, and (3) required pragmatics skills to understand the user’s intent. As a result, there were no significant difference in linguistic behaviors and length of the speech while user interacts with speakers with different task competence. In addition, various pragmatics elements were equally utilized and especially, implied intentions were frequently observed in user’s short utterance even under simple interaction scenarios."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "IROS19_image.png"
 
 # Is this a selected publication? (true/false)
 selected = false
