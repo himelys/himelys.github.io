@@ -6,7 +6,7 @@ date = "2018-02-25"
 title = "Knowledge based dementia care support system"
 
 # Project summary to display on homepage.
-summary = "In this project, "
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "DTC_KB_concept.png"

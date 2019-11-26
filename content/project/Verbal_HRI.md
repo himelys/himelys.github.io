@@ -6,7 +6,7 @@ date = "2018-02-25"
 title = "Verbal Human-Robot Interaction Modeling"
 
 # Project summary to display on homepage.
-summary = "In this project, "
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Verbal_HRI.png"
@@ -23,9 +23,9 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "human_speech_ex.png"
+image = ""
 caption = ""
 
 +++
 
-In this project, we build .
+In this project, we are interested in verbal behaviors of human when humans are interacting with artificial agents like robot or smart speaker. Currently, we are trying to build (1) Social dialogue models and (2) Models to handle the indirect speech act that are commonly found in verbal human-robot interaction. For social dialogue model, we have acquired more the 3,000 actual chatting data between human and coded several different social cues. With such dataset, we are currently building a sequence model that could be used as a simple state-action model for robot or smart speaker.

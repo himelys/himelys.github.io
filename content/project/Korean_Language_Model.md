@@ -6,7 +6,7 @@ date = "2018-02-25"
 title = "Complexity model of Korean Language"
 
 # Project summary to display on homepage.
-summary = "In this project, we build complexity model of Korean language using machine learning and statistical modeling methods"
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "wikipedia_POS_network.png"
