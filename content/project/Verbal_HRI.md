@@ -13,7 +13,7 @@ image_preview = "Verbal_HRI.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["signal-processing", "speech-perception", "Brain-Computer-Interface"]
+tags = ["Artificial-intelligence", "Human-Robot-Interaction", "Dialogue-Model"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
