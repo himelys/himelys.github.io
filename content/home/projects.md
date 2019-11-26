@@ -48,4 +48,8 @@ filter_default = 0
 [[filter]]
     name = "Language Model"
     tag = ".language-model"
+
+[[filter]]
+    name = "Brain-Computer Interface"
+    tag = ".Brain-Computer-Interface"
 +++
