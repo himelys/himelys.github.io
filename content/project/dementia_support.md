@@ -9,7 +9,7 @@ title = "Knowledge based dementia care support system"
 summary = "In this project, "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "dementia_care_system.png"
+image_preview = "DTC_KB_concept.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
