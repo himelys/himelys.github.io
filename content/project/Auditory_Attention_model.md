@@ -13,7 +13,7 @@ image_preview = "Auditory_BCI.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["signal-processing", "speech-Perception", "Brain-Computer-Interface", "Auditory-Neuroscience"]
+tags = ["signal-processing", "Speech-Perception", "Brain-Computer-Interface", "Auditory-Neuroscience"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
