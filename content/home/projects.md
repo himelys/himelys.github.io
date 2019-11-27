@@ -52,4 +52,18 @@ filter_default = 0
 [[filter]]
     name = "Brain-Computer Interface"
     tag = ".Brain-Computer-Interface"
+
+[[filter]]
+    name = "Auditory Neuroscience"
+    tag = ".Auditory-Neuroscience"
+
+
+[[filter]]
+    name = "Speech Perception"
+    tag = ".Speech-Perception"
+
+[[filter]]
+    name = "Human-Robot Interaction"
+    tag = ".Human-Robot-Interaction"
+
 +++
