@@ -13,7 +13,7 @@ image_preview = "wikipedia_POS_network.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "language-model", "language-rehabilitation"]
+tags = ["machine-learning", "language-model", "language-rehabilitation", "Artificial-intelligence"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

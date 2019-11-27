@@ -13,7 +13,7 @@ image_preview = "DTC_KB_concept.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Ontology","Artificial-intelligence","Dementia"]
+tags = ["Ontology", "Artificial-intelligence", "Dementia", "Human-Robot-Interaction"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
